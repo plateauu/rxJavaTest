@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="RxTest:main" external.linked.project.path="$USER_HOME$/java/idea/RxTest" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="eu.insidemind" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$USER_HOME$/java/idea/RxTest/build/classes/main" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/java/idea/RxTest/src/main">
+      <sourceFolder url="file://$USER_HOME$/java/idea/RxTest/src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/java/idea/RxTest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/java/idea/RxTest/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-all:2.3.11" level="project" />
+    <orderEntry type="library" name="Gradle: io.reactivex:rxjava:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.8.2" level="project" />
+  </component>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/382155302/RxTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/382155302/RxTest_main.iml" group="RxTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/382155302/RxTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/382155302/RxTest_test.iml" group="RxTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/382155302/idea-RxTest.iml" filepath="$PROJECT_DIR$/.idea/modules/382155302/idea-RxTest.iml" />
+    </modules>
+  </component>
+</project>
